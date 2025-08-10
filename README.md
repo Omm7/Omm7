@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **React, TailwindCSS, AWS...**
 
-💬 Ask me about **Python, JAVA, HTML, CSS, JavaScript, MySQL...**
+💬 Ask me about **c/c++ JAVA, HTML, CSS, JavaScript, MySQL...**
 
 ⚡ Hobbies **Singing and PowerPoint Presentations**
 
@@ -36,9 +36,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,django" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
-    <img src="https://skillicons.dev/icons?i=idea,pycharm,sqlite,threejs,vite,windows,netlify,npm,powershell" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,c,c++,java,sql,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=idea,sqlite,threejs,vite,windows,netlify,vercel,npm,powershell" />
     <br>
 </div>
 
